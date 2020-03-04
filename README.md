@@ -6,7 +6,5 @@ Have fun!\
 Code 💻
 
 
-# @hariharan94j
-Contact for any help or queries\
-📩 hariharan94j@gmail.com\
+# Contact for any help or queries
 💻 Coding in progress
